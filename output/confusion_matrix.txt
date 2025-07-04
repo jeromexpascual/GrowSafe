@@ -1,0 +1,27 @@
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Caution Safe
+   Caution       0    0
+   Safe          0    3
+                                     
+               Accuracy : 1          
+                 95% CI : (0.2924, 1)
+    No Information Rate : 1          
+    P-Value [Acc > NIR] : 1          
+                                     
+                  Kappa : NaN        
+                                     
+ Mcnemar's Test P-Value : NA         
+                                     
+            Sensitivity : NA         
+            Specificity :  1         
+         Pos Pred Value : NA         
+         Neg Pred Value : NA         
+             Prevalence :  0         
+         Detection Rate :  0         
+   Detection Prevalence :  0         
+      Balanced Accuracy : NA         
+                                     
+       'Positive' Class : Caution    
+                                     

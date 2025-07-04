@@ -1,0 +1,13 @@
+"ForecastTime","Temp_C","Condition","Precip_Probability","Has_Precipitation","Is_Daylight"
+2025-07-04 21:00:00,27.3,"Cloudy",6,FALSE,FALSE
+2025-07-04 22:00:00,27.4,"Cloudy",7,FALSE,FALSE
+2025-07-04 23:00:00,27.3,"Cloudy",7,FALSE,FALSE
+2025-07-05,27.2,"Cloudy",8,FALSE,FALSE
+2025-07-05 01:00:00,27.1,"Cloudy",10,FALSE,FALSE
+2025-07-05 02:00:00,26.9,"Cloudy",10,FALSE,FALSE
+2025-07-05 03:00:00,26.9,"Cloudy",14,FALSE,FALSE
+2025-07-05 04:00:00,26.2,"Cloudy",44,FALSE,FALSE
+2025-07-05 05:00:00,26.8,"Thunderstorms",45,TRUE,FALSE
+2025-07-05 06:00:00,27.2,"Mostly cloudy w/ t-storms",51,TRUE,TRUE
+2025-07-05 07:00:00,28.1,"Intermittent clouds",40,FALSE,TRUE
+2025-07-05 08:00:00,29.3,"Partly sunny",34,FALSE,TRUE

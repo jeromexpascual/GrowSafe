@@ -1,0 +1,2 @@
+"City","Forecast_Date","Min_Temp_C","Max_Temp_C","Day_Condition","Night_Condition","Day_Has_Precipitation","Night_Has_Precipitation","Alert","Category","Severity","Alert_Start","Alert_End"
+"Iloilo City",2025-07-04,26.1,32.2,"Thunderstorms","Thunderstorms",TRUE,TRUE,"Thunderstorms in the area late Friday night through Saturday morning","thunderstorm",5,2025-07-05 01:00:00,2025-07-05 13:00:00
